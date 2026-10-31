@@ -39,4 +39,13 @@ patterns.
 
 ## License
 
+This package is a Dart port of the URLPattern polyfill. It includes code
+derived from the following MIT-licensed projects:
+
+[URLPattern polyfill](https://github.com/kenchris/urlpattern-polyfill)
+Copyright 2020 Intel Corporation
+
+[path-to-regexp](https://github.com/pillarjs/path-to-regexp)
+Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
+
 This package is distributed under the MIT license. See [LICENSE](LICENSE).
