@@ -1,0 +1,10 @@
+name: urlpattern_dart
+description: A Dart port of the URLPattern polyfill for matching and parsing URL patterns.
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.7
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
